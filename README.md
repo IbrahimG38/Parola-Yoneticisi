@@ -1,0 +1,2 @@
+# Parola Yoneticisi
+ Parola Yöneticisi
